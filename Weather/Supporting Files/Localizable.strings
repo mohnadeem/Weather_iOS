@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Muhammad Nadeem on 12/06/2020.
+  Copyright © 2020 Muhammad Nadeem. All rights reserved.
+*/
+
+// Global Messages
+"SETTINGS"                              = "Settings";
+"CANCEL"                                = "Cancel";
+"DONE"                                  = "Done";
+"CONTINUE"                              = "Continue";
+"CONFIRM"                               = "Confirm";
+"YES"                                   = "Yes";
+"CLEAR_ALL"                             = "Clear All";
+
+// Home
+"HOME_TITLE"                            = "Weather";
+
+// Forecast
+"FORECAST_TITLE"                        = "Forecast";
+
+// No Data
+"NO_DATA_CONNECTION_TITLE"              = "Sorry, Connection Lost.";
+"NO_DATA_CONNECTION_MESSAGE"            = "No internet connection, please check your phone settings";
+"NO_DATA_CONNECTION_ACTION"             = "Try Again";
+"NO_DATA_WEATHER_TITLE"                 = "Current Location Weather";
+"NO_DATA_WEATHER_MESSAGE"               = "Enable your location services to determine the weather";
+"NO_DATA_WEATHER_ACTION"                = "Continue";
+
+"NO_DATA_WEATHERS_RESULTS_TITLE"           = "Sorry. No results found.";
+"NO_DATA_WEATHERS_RESULTS_MESSAGE"         = "Try refining your search criteria by changing city names.";
+"NO_DATA_WEATHERS_RESULTS_ACTION"          = "Try Again";
+
+"NO_DATA_WEATHERS_LIST_TITLE"           = "No Data found.";
+"NO_DATA_WEATHERS_LIST_MESSAGE"         = "Pease add some city names to see the weather";
+"NO_DATA_WEATHERS_LIST_ACTION"          = "Add City";
+
+
+"POPUP_CITY_NAME_TITLE"                 = "Weather";
+"POPUP_CITY_NAME_MSG"                   = "Enter Minimum %i or Maximum %i comma separated city names";
+"POPUP_CITY_NAME_PLACEHOLDER"           = "Enter comma separated city names";
+
+"POPUP_CITY_CLEAR_ALL_TITLE"                 = "Weathers";
+"POPUP_CITY_CLEAR_ALL_MSG"                   = "Are you sure you want to clear all weathers?";
+
+// Generic Errors
+"ERROR_NO_CONNECTION"                   = "No internet connection, please check your phone settings";
+"ERROR_UNKNOWN"                         = "Unknown error occured, please try again";
+"ERROR_LOCATION_PERMISSION"             = "Location permission required";
+"ERROR_LOCATION_PERMISSION_MSG"         = "Turn on location services to Allow Weather to determine your location";
+
